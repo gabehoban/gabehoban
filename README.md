@@ -1,16 +1,19 @@
-### Hi there 👋
+<!--START_SECTION:iroh-->
+<img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
+  
+  > You have come to the crossroads of your destiny. It is time for you to choose. It is time for you to choose good.
+  >
+  > ~ Uncle Iroh (Episode 2.20 'The Crossroads of Destiny')
+<!--END_SECTION:iroh-->
 
-<!--
-**gabehoban/gabehoban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:wave: My name is Gabe.
+I am a currently a Junior studying Computer Science at the University of Dayton.
+
+I like to work on...
+- :factory: Automation of tedious things
+- :iphone: Mobile app development
+- :computer: Learning new programming languages
