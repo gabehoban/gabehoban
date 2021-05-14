@@ -1,17 +1,14 @@
-<!--START_SECTION:iroh-->
-<img height="80" align="left" src="https://raw.githubusercontent.com/jules2689/jules2689/master/iroh.png">
+Quote of the month:
   
-  > Hope is something you give yourself. That is the meaning of inner strength.
-  >
-  > ~ Uncle Iroh (Episode 2.20 'The Crossroads of Destiny')
-<!--END_SECTION:iroh-->
+  > "If our lives are just a spark in the eyes of the gods, let us blind them at least once."
 
+~ Hollow Knight
 <br>
 
 ---
 
 :wave: My name is Gabe.
-I am a currently a junior studying Computer Science at the University of Dayton. After graudating in May of 2022, I hope to gain a posistion in either the machine learning industry or in application software development. 
+I am a currently a junior studying Computer Science at the University of Dayton. After graudating in May of 2022, I hope to gain a posistion in either the machine learning industry or in software development. 
 
 I like to work on...
 - :factory: Automation of tedious things
