@@ -5,7 +5,7 @@
 **About me**
 
 - 🏫 Senior at the University of Dayton
-- ❤️ I love writing backend application,
+- ❤️ I love writing backend applications,especially with Node.js
 - 💬 Ask me about anything [here](https://github.com/gabehoban/gabehoban/issues)
 
 **Languages and Tools:**  
