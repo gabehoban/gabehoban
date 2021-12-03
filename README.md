@@ -1,7 +1,3 @@
-![Readme Header](./gh-readme-header.png)
-
-<br />
-
 ### [*`403: moved to codeberg`*](https://codeberg.org/gabehoban)
 
 <br />
