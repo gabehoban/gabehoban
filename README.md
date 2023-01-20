@@ -3,7 +3,6 @@
 <br />
 
 **About me**
-- ❤️ I love writing backend applications, especially with Node.js and Go.
 - 💬 Ask me about anything [here](https://github.com/gabehoban/gabehoban/issues)
 
 **Languages and Tools:**  
